@@ -1,3 +1,13 @@
+nav {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+a {
+  color: black;
+}
+
 h1 {
   font-family: Georgia, serif;
   font-size: 40px;
