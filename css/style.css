@@ -1,0 +1,38 @@
+h1 {
+  font-family: Georgia, serif;
+  font-size: 40px;
+  text-align: left;
+}
+
+h2 {
+font-family: Georgia, serif;
+font-size: 30px;
+}
+
+p, .newsbites {
+  font-family: Georgia;
+  font-size: 17px;
+}
+
+.logotext {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+.newsbites {
+  text-align: center;
+  font-weight: bold;
+  text-align: center;
+}
+
+.bites {
+  font-family: Verdana;
+  font-size: 12px;
+  color: DimGray;
+}
+
+white {
+  color: white;
+}
