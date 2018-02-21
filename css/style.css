@@ -79,6 +79,13 @@ p, .newsbites {
   width: 630px;
 }
 
+.leftcolstories {
+  display: flex;
+  flex-wrap: wrap;
+  width: 630px;
+  justify-content: space-between;
+}
+
 .imagecontent {
   background-image: url(../images/img-story-main.png);
   width: 630px;
@@ -92,6 +99,17 @@ margin-top: 100px;
 
 .textonimage {
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 300px;
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+.h2overimg {
   flex-direction: column;
   justify-content: center;
   height: 300px;
